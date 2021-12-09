@@ -1,0 +1,6 @@
+framework module Pods_WalaeeProjectTests {
+  umbrella header "Pods-WalaeeProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
